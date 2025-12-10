@@ -4,7 +4,7 @@
 [**PerAct-L:LinearSelf-AttentionMechanismForComputationalOptimizationofRoboticTransformer**](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12352560)  
 [Lee Yejin]
 
-PerAct is an end-to-end behavior cloning agent that learns to perform a wide variety of language-conditioned manipulation tasks. PerAct uses a Transformer that exploits the 3D structure of _voxel patches_ to learn policies with just a few demonstrations per task.
+PerAct-L is an efficient robotic manipulation model that reduces computational cost by replacing PerAct’s attention mechanism with Linformer-based linear attention.
 
 <img width="858" height="280" alt="image" src="https://github.com/user-attachments/assets/2566dfeb-c664-4fc6-b7ff-6375bc70b165" />
 
