@@ -1,9 +1,8 @@
 # PerActor-L
 
 
-[**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**](https://arxiv.org/abs/2209.05451)  
-[Mohit Shridhar](https://mohitshridhar.com/), [Lucas Manuelli](http://lucasmanuelli.com/), [Dieter Fox](https://homes.cs.washington.edu/~fox/)  
-[CoRL 2022](https://www.robot-learning.org/) 
+[**PerAct-L:LinearSelf-AttentionMechanismForComputationalOptimizationofRoboticTransformer**](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12352560)  
+[Lee Yejin]
 
 PerAct is an end-to-end behavior cloning agent that learns to perform a wide variety of language-conditioned manipulation tasks. PerAct uses a Transformer that exploits the 3D structure of _voxel patches_ to learn policies with just a few demonstrations per task.
 
